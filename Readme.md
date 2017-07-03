@@ -1,4 +1,4 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный проект «Пинк» 
 
 * Студент: [Олег Ильин](https://up.htmlacademy.ru/adaptive/11/user/282157).
 * Наставник: `Неизвестно`.
